@@ -2,9 +2,15 @@
 
 O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que habilite o profissional para atuar como desenvolvedor(a) Full Stack.
 
-![GitHub repo size](https://github.com/gpd38/cursoIgtiBootcampFullStack)
-![GitHub top language](https://github.com/gpd38/cursoIgtiBootcampFullStack)
-![GitHub language count](https://github.com/gpd38/cursoIgtiBootcampFullStack)
+<p align="center">
+  <img src="img/logo/logoFullStack.png" alt="Logomarca Bootcamp Full Stack">
+</p>
+
+<p align="center">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoIgtiBootcampFullStack?color=blue">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gpd38/cursoIgtiBootcampFullStack?color=green">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/cursoIgtiBootcampFullStack?color=red">
+</p>
 
 ### Cronograma
 
@@ -22,22 +28,21 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
 
 ### Professores
 
-<table width:100%>
-  <tr>
-    <td>Bruno</td>
-    <td>Guilherme</td>
-    <td>Raphael</td>
-  </tr>
-  <tr>
-    <td>[Linkedin]()</td>
-    <td>[Linkedin]()</td>
-    <td>[Linkedin]()</td>
-  </tr>
+<table>
   <tr>
     <td><img src="img/professor/brunoTeixeira.png"></td>
     <td><img src="img/professor/guilhermeAssis.png"></td>
     <td><img src="img/professor/raphaelGomide.png"></td>
   </tr>
+  <tr>
+    <td>Bruno Augusto Teixeira</td>
+    <td>Guilherme Henrique de Assis</td>
+    <td>Raphael Ribeiro Gomide</td>
+  </tr>
 </table>
 
 ### Bibliografia
+
+1.
+2.
+3.
