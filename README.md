@@ -121,15 +121,33 @@ Capítulo 9 – Desafio guiado: CRUD com HTML, CSS e JavaScript
 
 ##### Módulo 2: Desenvolvimento de API's
 
+Em andamento . . .
+
 ##### Módulo 3: Front-end com react
+
+Em andamento . . .
 
 ##### Módulo 4: Persistência de dados, versionamento de código e implantação
 
+Em andamento . . .
+
 ##### Módulo 5: Desfio Final
+
+Em andamento . . .
 
 ### Código Fonte Módulos
 
 ##### Módulo 1: Fundamentos
+
+- [Aula01](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula01)
+- [Aula02](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula02)
+- [Aula03](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula03)
+- [Aula04](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula04)
+- [Aula05](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula05)
+- [Aula06](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula06)
+- [Aula07](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula07)
+- [Aula08](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula08)
+- [Aula09](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula09)
 
 ##### Módulo 2: Desenvolvimento de API's
 
@@ -154,17 +172,8 @@ Capítulo 9 – Desafio guiado: CRUD com HTML, CSS e JavaScript
   </tr>
 </table>
 
-### Bibliografia e Complementos
+### Bibliografia Complementar
 
 1.
 2.
 3.
-
-- [x] Trabalho Prático 1
-- [x] Desafio Módulo 1
-- [x] Trabalho Prático 2
-- [x] Desafio Módulo 2
-- [x] Trabalho Prático 3
-- [x] Desafio Módulo 3
-- [x] Trabalho Prático 4
-- [x] Desafio Módulo 4
