@@ -12,9 +12,17 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
   <img src="img/cronograma/cronogramaTurmaBTC211.png" alt="Cronograma Bootcamp - Desenvolvedor(a) Full Stack">
 </p>
 
+##### Módulo 1: Fundamentos
+
+##### Módulo 2: Desenvolvimento de API's
+
+##### Módulo 3: Front-end com react
+
+##### Módulo 4: Persistência de dados, versionamento de código e implantação
+
 ### Professores
 
-<table width:90%>
+<table width:100%>
   <tr>
     <td>Bruno</td>
     <td>Guilherme</td>
