@@ -9,9 +9,8 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
 ### Cronograma
 
 <p align="center">
-  <img src="img/cronograma/cronogramaTurmaBTC211.png">
+  <img src="img/cronograma/cronogramaTurmaBTC211.png" alt="Cronograma Bootcamp - Desenvolvedor(a) Full Stack">
 </p>
-<h1 align="center">Cronograma Bootcamp - Desenvolvedor(a) Full Stack</h1>
 
 ### Professores
 
@@ -28,7 +27,7 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
   </tr>
   <tr>
     <td><img src="img/professor/brunoTeixeira.png"></td>
-    <td><img src="img/professor/guilhemeAssis.png"></td>
+    <td><img src="img/professor/guilhermeAssis.png"></td>
     <td><img src="img/professor/raphaelGomide.png"></td>
   </tr>
 </table>
