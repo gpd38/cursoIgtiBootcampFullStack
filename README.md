@@ -46,8 +46,8 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
 - Introdução ao React: JSX, Componentes de Funções, Componentes de Classe, State, Props, Binding, Interpolação.
 - Comunicação entre componentes.
 - Ciclo de vida de componentes de classe.
-- - Introdução às requisições HTTP com React.
-    Roteamento com react-router.
+- Introdução às requisições HTTP com React.
+- Roteamento com react-router.
 - Introdução ao Ionic React.
 - Criação de um pequeno projeto passo-a-passo com React.
 
