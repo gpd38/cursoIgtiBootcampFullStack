@@ -113,9 +113,13 @@ Capítulo 1 – Introdução
 - Hello World Nodejs[Link](https://youtu.be/Am-ww4TBw8w)
 - Node.js Event Loop[Link](https://youtu.be/xZFrpWVvgWI)
 - Módulos do Node.js
-- [Link](https://youtu.be/6uXx-0Wjg8c)
-- [Link](https://youtu.be/uLFsrIjYdfU)
-- Ferramentas para consumo de endpoints[Link]()
+  - [Link](https://youtu.be/6uXx-0Wjg8c)
+  - [Link](https://youtu.be/uLFsrIjYdfU)
+  - [Link](https://youtu.be/JvAJLosvBog)
+  - [Link](https://youtu.be/ejsir-ri-aQ)
+  - [Link](https://youtu.be/cuXW2h5Rg30)
+  - [Link](https://youtu.be/n2fhldAIBgQ)
+- Ferramentas para consumo de endpoints[Link](https://youtu.be/rmEIjVLBMP0)
 
 Capítulo 2 - Express
 
