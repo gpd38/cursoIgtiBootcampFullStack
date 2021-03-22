@@ -20,47 +20,31 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
 
 ##### Módulo 1: Fundamentos
 
-- Introdução, instalação e configuração do Visual Studio Code (VSCode).
-- Instalação do Node.js.
-- Instalação da biblioteca live-server.
-- Noções de HTML e CSS.
-- Introdução ao JavaScript.
-- Integração do JavaScript com o HTML e CSS.
-- JavaScript básico: console, comentários, tipos primitivos, variáveis, APIs nativas de servidor e web, funções, estruturas de decisão, estruturas de repetição e manipulação de eventos.
+- Introdução ao JavaScript, instruções, tipos, valores, variáveis e comentários.
+- Comandos de bloco: estruturas de decisão, estruturas de repetição, funções e manipulação de eventos.
+- JavaScript moderno (ES6+): arraymethods, rest/spread operatore destructuring.
+- JavaScript assíncrono: setTimeout, setInterval, requisições HTTP, promisese async/await
 
 ##### Módulo 2: Desenvolvimento de API's
 
-- Introdução ao desenvolvimento backend. Backend x frontend.
-- Introdução ao desenvolvimento de APIs.
-- Introdução ao desenvolvimento com Node.js.
-- Introdução ao Express.
-- Criação de requisições HTTP, rotas e middlewares com Express.
-- Introdução à ferramenta Insomnia.
-- Construção de APIs HTTP, utilizando as principais operações: GET, POST, PUT, e DELETE.
-- Desenvolvimento das operações CRUD. Persistência de Dados em Arquivos.
+- Introdução ao Node.js, Express.js, EventLoop, módulos e ferramentas.
+- Rotas, middlewares, tratamento de erros, utilização de logs e arquivos estáticos.
+- Verbos HTTP: POST, GET, PUT e DELETE.
+- Criação e documentação de API’s.
 
 ##### Módulo 3: Front-end com react
 
-- Instalação e configuração do React.
-- Criação de projetos com o create-react-app.
-- Introdução ao React: JSX, Componentes de Funções, Componentes de Classe, State, Props, Binding, Interpolação.
-- Comunicação entre componentes.
-- Ciclo de vida de componentes de classe.
-- Introdução às requisições HTTP com React.
-- Roteamento com react-router.
-- Introdução ao Ionic React.
-- Criação de um pequeno projeto passo-a-passo com React.
+- Introdução ao React, VirtualDOM, create-react-appe JavaScript puro x React.
+- Class Components, props, state, setState, Lifecycle, Methods e trabalhando com eventos.
+- Functional components, props destructuring, closures e conversão a partir de Class Components.
+- React Hooks, useState, useEffect, deps e conversão a partir de Class Components.
 
 ##### Módulo 4: Persistência de dados, versionamento de código e implantação
 
-- Introdução ao MongoDB.
-- Utilização do serviço mLab.
-- Integrando a API ao MongoDB no mLab.
-- Introdução ao Git.
-- Instalação do git e seus principais comandos.
-- Como publicar aplicações no Github.
-- Introdução e instalação do Heroku CLI.
-- Como implantar aplicações no Heroku.
+- MongoDB, coleções, CRUD, BulkWrite, índices, modelagem e agregações.
+- Introdução ao MongoDBAtlas, características e utilização do serviço e integração com APIs.
+- Git, instalação e configuração do Git, principais comandos e introdução ao GitHub.
+- Introdução ao Heroku, instalação e utilização do HerokuCLI e implantação de apps com o Heroku
 
 ##### Módulo 5: Desfio Final
 
@@ -121,7 +105,39 @@ Capítulo 9 – Desafio guiado: CRUD com HTML, CSS e JavaScript
 
 ##### Módulo 2: Desenvolvimento de API's
 
-Em andamento . . .
+Capítulo 1 – Introdução
+
+- Backend vs Frontend[Link](https://youtu.be/dbKtndRiBU8)
+- APIs[Link](https://youtu.be/Uhsn1u3irz4)
+- Node.js[Link](https://youtu.be/JhqW3Y56YIc)
+- Hello World Nodejs[Link](https://youtu.be/Am-ww4TBw8w)
+- Node.js Event Loop[Link](https://youtu.be/xZFrpWVvgWI)
+- Módulos do Node.js
+- [Link](https://youtu.be/6uXx-0Wjg8c)
+- [Link](https://youtu.be/uLFsrIjYdfU)
+- Ferramentas para consumo de endpoints[Link]()
+
+Capítulo 2 - Express
+
+- Instalação[Link]()
+- Middlewares[Link]()
+- Tratamento de erros[Link]()
+- Gravação de logs[Link]()
+- Servindo arquivos estáticos[Link]()
+
+Capítulo 3 - Construção de uma API
+
+- Grades Control API[Link]()
+- Configuração do projeto[Link]()
+- Método POST[Link]()
+- Método GET[Link]()
+- Método GET por id[Link]()
+- Método DELETE[Link]()
+- Método PUT[Link]()
+- Tratamento de erros[Link]()
+- Gravação de logs[Link]()
+- Validação de campos[Link]()
+- Cors[Link]()
 
 ##### Módulo 3: Front-end com react
 
@@ -148,6 +164,7 @@ Em andamento . . .
 - [Aula07](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula07)
 - [Aula08](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula08)
 - [Aula09](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula09)
+- [Desafio](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/desafio1)
 
 ##### Módulo 2: Desenvolvimento de API's
 
