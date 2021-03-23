@@ -1,0 +1,58 @@
+html {
+  background-color: rgb(191, 192, 192);
+}
+
+form {
+  margin: 1rem 4rem 0px 4rem;
+  padding: 2rem;
+  border-style: outset;
+  border-radius: 1rem;
+  background-color: white;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.tittle {
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.label {
+  font-size: 1.2rem;
+  margin-left: 0.2rem;
+}
+
+.text-input {
+  font-size: 1.5rem;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: transparent;
+  width: 100%;
+  padding-bottom: 0.7rem;
+}
+
+input[type='range'] {
+  width: 100%;
+  -webkit-appearance: none;
+  border: none;
+  border-radius: 1rem;
+  background: transparent;
+  outline: none;
+}
+input[type='range']::-webkit-slider-runnable-track {
+  height: 0.4rem;
+  cursor: pointer;
+  background: rgb(191, 192, 192);
+  outline: none;
+}
+
+input[type='range']::-webkit-slider-thumb {
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 1.5rem;
+  background: rgb(38, 166, 154);
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -10px;
+}
