@@ -159,16 +159,24 @@ Em andamento . . .
 
 ##### Módulo 1: Fundamentos
 
-- [Aula01](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula01)
-- [Aula02](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula02)
-- [Aula03](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula03)
-- [Aula04](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula04)
-- [Aula05](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula05)
-- [Aula06](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula06)
-- [Aula07](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula07)
-- [Aula08](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula08)
-- [Aula09](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/aula09)
-- [Desafio](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/desafio1)
+- [Aula01](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula01)
+- [Aula02](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula02)
+- [Aula03](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula03)
+- [Aula04](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula04)
+- [Aula05](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula05)
+- [Aula06](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula06)
+- [Aula07](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula07)
+- [Aula08](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula08)
+- [Aula09](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula09)
+- [Aula10](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula10)
+- [Aula11](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula11)
+- [Aula12](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula12)
+- [Aula13](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula13)
+- [Aula14](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula14)
+- [Aula15](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula15)
+- [Aula16](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula16)
+- [Aula17](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/aula17)
+- [Desafio](https://github.com/gpd38/cursoIgtiBootcampFullStack/tree/master/modulo1/desafio1)
 
 ##### Módulo 2: Desenvolvimento de API's
 
