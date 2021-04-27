@@ -18,6 +18,8 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
   <img src="img/cronograma/cronogramaTurmaBTC211.png" alt="Cronograma Bootcamp - Desenvolvedor(a) Full Stack">
 </p>
 
+### :book: Módulos
+
 ##### Módulo 1: Fundamentos
 
 - Introdução ao JavaScript, instruções, tipos, valores, variáveis e comentários.
@@ -50,7 +52,7 @@ O Bootcamp tem como objetivo oferecer uma formação prática e intensiva que ha
 
 - Criar uma aplicação utilizando todos os conceitos vistos e estudados nos 4 módulos.
 
-### Vídeo Aulas
+### :video_camera: Vídeo Aulas
 
 ##### Módulo 1: Fundamentos
 
@@ -155,7 +157,7 @@ Em andamento . . .
 
 Em andamento . . .
 
-### Código Fonte Módulos
+### :newspaper: Código Fonte Módulos
 
 ##### Módulo 1: Fundamentos
 
@@ -186,7 +188,7 @@ Em andamento . . .
 
 ##### Módulo 5: Desfio Final
 
-### Professores
+### :man_teacher: Professores
 
 <table>
   <tr>
@@ -201,8 +203,8 @@ Em andamento . . .
   </tr>
 </table>
 
-### Bibliografia Complementar
+### :books: Bibliografia Complementar
 
-1.
+1. [Shields](https://shields.io/)
 2.
 3.
